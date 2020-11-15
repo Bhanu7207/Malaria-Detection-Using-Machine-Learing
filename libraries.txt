@@ -1,3 +1,0 @@
-1.I used anaconda software by using jupiter platform 
-2.Install csv package along with the PIP package installation
-3.then numpy,sklearn,pandas for scientific calculations packages installation 
