@@ -1,0 +1,16 @@
+Step 1: Download the cell images from here https://drive.google.com/file/d/1azIYjzLFCY7qp7-NjgSBvakbGgPvQlRf/view
+
+Step 2: Run the gen_dataset.py to read cell images and generate the CS
+ 
+Description:
+1. Im using Python QT5 user-interface
+2. using CSV files with 5 attributes, 27559 datasets
+3. Using Machine learning classifiers functions
+4. Imported some Scientific Classification Modules
+5. Using Anaconda IDE as a Spyder is recommended
+6. Python 3.5 compiler used
+7. Required PIP installation
+8. Using Image Processing
+9. Used Contour Detection Method
+10. We Need to Run Malaria File and follow the output 
+11. It is a Application Based Project
